@@ -1,0 +1,17 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "locale": "pt-br",
+        "pretty": true,
+        "target": "es5",
+        "module": "system",
+        "moduleResolution": "node",
+        "sourceMap": true,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "noEmitOnError": true,
+        "removeComments": true,
+        "noImplicitAny": true,
+        "watch": true
+    }
+}
