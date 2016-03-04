@@ -15,10 +15,10 @@ Following up **[Pluralsight's][1]** course: **[Using ES6 with Typescript][2]**
 - new ES6 Syntax
     - ~~let~~;
     - ~~const~~;
-    - arrow functions;
-    - destructuring objects;
-    - defaults;
-    - deep destructuring;
+    - ~~arrow functions~~;
+    - ~~destructuring objects~~;
+    - ~~defaults~~;
+    - ~~deep destructuring~~;
     - destructuring arrays with Rest and Spread;
     - string templates;
     - for of;
