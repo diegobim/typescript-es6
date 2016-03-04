@@ -19,7 +19,7 @@ Following up **[Pluralsight's][1]** course: **[Using ES6 with Typescript][2]**
     - ~~destructuring objects~~;
     - ~~defaults~~;
     - ~~deep destructuring~~;
-    - destructuring arrays with Rest and Spread;
+    - ~~destructuring arrays with Rest and Spread~~;
     - string templates;
     - for of;
 
